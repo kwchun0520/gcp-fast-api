@@ -1,0 +1,4 @@
+.env
+*.json
+*.lock
+*/__pycache__/
